@@ -1,5 +1,5 @@
 # Cyber-Progress
-This repo documents my journey through cyber security. Having prior IT knowledge, I decided to start with the  CompTIA Security+ certification. Consistency is the goal here. Let's see how this goes 😅.
+This repo documents my journey through cybersecurity. Having prior IT knowledge, I decided to start with the  CompTIA Security+ certification. Consistency is the goal here. Let's see how this goes 😅.
 
 ### ⚠ Starting off with something important that I learned at the end of this semester at my uni:
 ***Life is fair.*** 
@@ -23,12 +23,34 @@ technology**
 
 (Yes, it says "1.2" because the Udemy course I am using to prepare for this exam is ordered so that it covers the 1.2 subtopics before 1.1.) 
 
-### 📝 Notes & Insights:
+### 📝 Thoughts & Insights:
 I made handwritten notes in a register to remember all the information. Thankfully, it was not a lot to take in, as I come from an IT background, it is easier for me to grasp these fundamental concepts. 
 I also covered objective 1.3, "Change Management"; however, it's not solidified in my mind yet, for I have not jotted down my notes. I plan to do that tomorrow.
+
 One thing that I noticed while studying these concepts is how closely some of them are related to business. As I have studied business studies in both my O and A levels, I was reminded of business concepts a lot. I am glad that these terms and concepts are not entirely new to me, and its making for speedy progress! That is only till I reach the more technical stuff and practical stuff😅.
 
 ### 📈 Next Steps:
 - Make notes for objective 1.3.
 - Cover objective 1.1.
 - Update this documentation regularly.
+
+
+## 📅 16th July 2025:
+Made notes on the following exam objectives to solidify the information in my mind:
+
+### 1.3 Change Management Processes
+- [x] **Business processes impacting
+security operation**
+- [x] **Technical implications**
+- [x] **Documentation**
+- [x] **Version control**
+
+### 📝 Thoughts & Insights:
+I wanted to take notes for objective 1.1 as well, but it's 3:40 am, and I need to sleep so bad 😭. However, I think the content I covered was enough for today, as there were a lot of terms and procedures, and it was a lot to take in. I was confusing one with the other but eventually I got aware of the differences, specially after doing the short quiz included in the Udemy course. 
+
+Before deciding to document my progress, I had already covered up to exam objective 2.1, but had not taken notes in my register, and I am never satisfied till I do it. The reason is that it is a habit or way of studying that I have developed since my O levels. Concepts are not affirmed in my mind till I pen them down, even if I write down the exact same things as in the slides/notebook. I guess we can say that I am not a good auditory and visual learner, but at least SOMETHING works for me, even if it's relatively more time-consuming 😬.  
+
+### 📈 Next Steps:
+- Make notes for objective 1.1.
+- Make notes for objective 2.1.
+- Stay consistent, even if I cover less than planned!
