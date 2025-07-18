@@ -21,11 +21,11 @@ Accounting (AAA)**
 - [x] **Deception and disruption
 technology**
 
-(Yes, it says "1.2" because the Udemy course I am using to prepare for this exam is ordered so that it covers the 1.2 subtopics before 1.1.) 
+(Yes, it says "1.2" because the Udemy course I am using to prepare for this exam is ordered to cover the 1.2 subtopics before 1.1.) 
 
 ### 📝 Thoughts & Insights:
 I made handwritten notes in a register to remember all the information. Thankfully, it was not a lot to take in, as I come from an IT background, it is easier for me to grasp these fundamental concepts. 
-I also covered objective 1.3, "Change Management"; however, it's not solidified in my mind yet, for I have not jotted down my notes. I plan to do that tomorrow.
+I also covered objective 1.3, "Change Management", however, it has not solidified in my mind yet, for I have not jotted down my notes. I plan to do that tomorrow.
 
 One thing that I noticed while studying these concepts is how closely some of them are related to business. As I have studied business studies in both my O and A levels, I was reminded of business concepts a lot. I am glad that these terms and concepts are not entirely new to me, and its making for speedy progress! That is only till I reach the more technical stuff and practical stuff😅.
 
@@ -46,7 +46,7 @@ security operation**
 - [x] **Version control**
 
 ### 📝 Thoughts & Insights:
-I wanted to take notes for objective 1.1 as well, but it's 3:40 am, and I need to sleep so bad 😭. However, I think the content I covered was enough for today, as there were a lot of terms and procedures, and it was a lot to take in. I was confusing one with the other but eventually I got aware of the differences, specially after doing the short quiz included in the Udemy course. 
+I wanted to take notes for objective 1.1 as well, but it's 3:40 am, and I need to sleep so bad 😭. However, I think the content I covered was enough for today, as there were a lot of terms and procedures, and it was a lot to take in. I was confusing one with the other, but eventually I became aware of the differences, especially after doing the short quiz included in the Udemy course. 
 
 Before deciding to document my progress, I had already covered up to exam objective 2.1, but had not taken notes in my register, and I am never satisfied till I do it. The reason is that it is a habit or way of studying that I have developed since my O levels. Concepts are not affirmed in my mind till I pen them down, even if I write down the exact same things as in the slides/notebook. I guess we can say that I am not a good auditory and visual learner, but at least SOMETHING works for me, even if it's relatively more time-consuming 😬.  
 
@@ -54,3 +54,25 @@ Before deciding to document my progress, I had already covered up to exam object
 - Make notes for objective 1.1.
 - Make notes for objective 2.1.
 - Stay consistent, even if I cover less than planned!
+
+
+## 📅 18th & 19th July 2025:
+Two presentations, a quiz, and an assignment; these past few days have been quite hectic! The summer semester at my uni started off slow, but then it hit me with full force, taking up most of my time. Fortunately, I was able to cover up these topics:
+
+### 1.1 Security Controls
+- [x] **Categories**
+- [x] **Control types**
+
+### 2.1 Threats
+- [x] **Threat actors**
+- [x] **Attributes of actors**
+- [x] **Motivations**
+
+### 📝 Thoughts & Insights:
+According to my understanding, the topic of threats is perhaps the most important one yet. It gives the base of how to think like the threat actors, trying to understand their behaviour through knowing their motivations and attributes. This type of thinking is especially crucial for a blue team role, which is exactly what I am aiming for. And I am quite sure that learning about threats, threat actors, and their motivations would play an integral part in helping me during my home practice labs (I cannot wait to start, but I must cover at least half the content before jumping into that!).
+
+I am quite motivated till now. Things are getting more interesting as I move into the juicier stuff! "Vulnerabilities" is up next. It is rather lengthy, but I do not mind, as I know it is going to be the most practical topic till now, in the sense that I will be able to recognize vulnerabilities through different aspects and see them in real life.
+
+ ### 📈 Next Steps:
+- Cover objective 2.3 (Vulnerabilities) 
+- Rewise previous content (from 15th and 16th July).
