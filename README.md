@@ -76,3 +76,14 @@ I am quite motivated till now. Things are getting more interesting as I move int
  ### 📈 Next Steps:
 - Cover objective 2.3 (Vulnerabilities) 
 - Rewise previous content (from 15th and 16th July).
+
+## 📅 22nd July 2025:
+- Revised all the previous content. Regular revision is very important as it keeps the concepts fresh, especially in the case of this certification, as it has a lot of terms and concepts to remember. 
+- Started the vulnerabilities topic. 
+
+### 📝 Thoughts & Insights:
+I am trying my best to stay consistent. Although I am not happy with the slowing down of my progress, I cannot help it either. University takes up much of my time, but I manage it fairly well. It's better not to rush this anyway, as I want to do this properly.
+
+ ### 📈 Next Steps:
+- Finish objective 2.3 (Vulnerabilities).
+- Manage and make more time for security+ prep. 
