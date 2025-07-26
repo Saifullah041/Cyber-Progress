@@ -69,9 +69,9 @@ Two presentations, a quiz, and an assignment; these past few days have been quit
 - [x] **Motivations**
 
 ### 📝 Thoughts & Insights:
-According to my understanding, the topic of threats is perhaps the most important one yet. It gives the base of how to think like the threat actors, trying to understand their behaviour through knowing their motivations and attributes. This type of thinking is especially crucial for a blue team role, which is exactly what I am aiming for. And I am quite sure that learning about threats, threat actors, and their motivations would play an integral part in helping me during my home practice labs (I cannot wait to start, but I must cover at least half the content before jumping into that!).
+According to my understanding, the topic of threats is perhaps the most important one yet. It gives the basis of how to think like the threat actors, trying to understand their behaviour through knowing their motivations and attributes. This type of thinking is especially crucial for a blue team role, which is exactly what I am aiming for. And I am quite sure that learning about threats, threat actors, and their motivations would be integral to helping me during my home practice labs (I cannot wait to start, but I must cover at least half the content before jumping into that!).
 
-I am quite motivated till now. Things are getting more interesting as I move into the juicier stuff! "Vulnerabilities" is up next. It is rather lengthy, but I do not mind, as I know it is going to be the most practical topic till now, in the sense that I will be able to recognize vulnerabilities through different aspects and see them in real life.
+I am quite motivated so far. Things are getting more interesting as I move into the juicier stuff! "Vulnerabilities" is up next. It is rather lengthy, but I do not mind, as I know it is going to be the most practical topic till now, in the sense that I will be able to recognize vulnerabilities through different aspects and see them in real life.
 
  ### 📈 Next Steps:
 - Cover objective 2.3 (Vulnerabilities) 
@@ -87,3 +87,48 @@ I am trying my best to stay consistent. Although I am not happy with the slowing
  ### 📈 Next Steps:
 - Finish objective 2.3 (Vulnerabilities).
 - Manage and make more time for security+ prep. 
+
+## 📅 25th and 26th July 2025:
+I was so tired today that I just wanted to sleep as soon as I got home from a day out with the boys. But I drank a cup of coffee and spent almost two hours studying. These are the topics I covered in the last two days:
+
+### 2.2 Social Engineering
+- [x] **Human vectors/social engineering**
+- [x] **Threat vectors and attack surfaces**
+
+### 2.3 Vulnerabilities
+- [x] **Application**
+- [x] **Operating system (OS)-based**
+- [x] **Web-based**
+- [x] **Hardware**
+- [x] **Virtualization**
+- [x] **Cloud-specific**
+- [x] **Supply chain**
+- [x] **Cryptographic**
+- [x] **Misconfiguration**
+- [x] **Mobile device**
+- [x] **Zero-day**
+
+### 5.6 Security Awareness Practices
+- [x] **Phishing**
+- [x] **Anomalous behavior recognition**
+- [x] **User guidance and training**
+- [x] **Reporting and monitoring**
+- [x] **Development**
+- [x] **Execution**
+
+
+### 📝 Thoughts & Insights:
+This part was not as hard as I thought it would be. I had prior knowledge of most of the vulnerabilities, for example, my instructor for the programming fundamentals course in the first semester at my uni had taught us buffer overflow in detail. "Race conditions" was the only topic that was kind of confusing to understand, but I was able to get it when the course instructor explained it with the help of sample code. 
+
+Funny thing how I have learned about most of the social engineering topics through real-life experiences (and my dad's justified scoldings). These sections of the course were highly relatable and, therefore, easier to understand. 
+
+One of the most important things I learned through these topics is that people are the weakest link in a security system. If a security system has layered protection and strong hardware and software firewalls, why would an attacker try to break through it when they can simply trick an authorized person into granting unauthorized access by obtaining sensitive information from them? Hence, the most crucial thing is to educate and train the workers of an organization very well, so that they can detect malicious activity and not get trapped. 
+
+The next topic is types of attacks and their signs. I've read the topics and I am familiar with most of them, as I have covered them in my O and A levels computer science syllabi. 
+
+My prior knowledge has helped me a lot till now, as I am plowing through these topics with little to no difficulty. But I am excited for the cryptography section. Sure, I have studied that topic multiple times in different courses, but it seems to be more detailed in this course as it's overall the lenghtiest section. 
+
+(The Udemy course had objective 5.6 under the social engineering section because the topics were related to each other)
+
+ ### 📈 Next Steps:
+- Cover Objective 2.4 (Attacks) 
