@@ -132,3 +132,45 @@ My prior knowledge has helped me a lot till now, as I am plowing through these t
 
  ### 📈 Next Steps:
 - Cover Objective 2.4 (Attacks) 
+
+## 📅 31st July 2025:
+These past few days have been full of confusion and second-guessing. A week ago, this was the plan/roadmap I had in my mind:
+
+Stick strictly to blue team knowledge    →    Get Security+ cert    →    Create a home lab and do practice projects    →    Update my resume and apply for jobs
+
+I skipped the internship part because I wanted an entry-level job as soon as possible without waiting for my degree to finish. But it turns out that my plan was not practical and needed a lot of mending.
+There was an instructor at my uni whose LinkedIn profile I came across. I found out that he is a cybersecurity expert and provides guidance for students trying to break into cybersecurity. Therefore, I scheduled a session with him. 
+
+That session was very valuable to me. "You cannot become a good defender if you're not a good attacker", said my respected teacher. Previously, I had planned not to take the cybersecurity course at my uni because it was too offense-heavy. But now I think it would be a great resource and chance for me to gain vital red teaming skills to further enhance my blue teaming expertise. Another very important thing that he told me was to focus on one thing properly at a time, and that I cannot do a job while my degree is not finished, so the best thing is to gain skills for now and do internships and projects to build up my portfolio. This way, I would be industry-ready when I finish my degree. Also, he insisted that I post about my progress on LinkedIn. It is a bit out of my comfort zone, but I will surely do it, in my own way, very soon. 
+
+But perhaps the most important point he told me was to jump to practical learning as soon as I can, as Security+ is theory-heavy. And for that, he suggested me to start with TryHackMe. 
+
+Ah, and while watching YouTube videos on cybersecurity guidance, I found out that networking knowledge is very important. Even though I did study a Computer Networks course a year ago at my uni in my second semester (in which I got a B 😔), I want to brush up my network knowledge. And so I have decided to study the Cisco Networking Basics course along with Security+ +. Anyhow, my updated roadmap looks like this now:
+
+**Get Security+ cert    →    Complete Cisco Networking Basics course    →    Study Cybersecurity course at my uni for red teaming skills    →    Start and progress in the TryHackMe SOC Level 1 learning path (and document it on LinkedIn)    →    Apply for and do internships in summer and winter holidays    →    Do projects and build my portfolio    →    Apply for jobs after I finish my degree**
+
+
+These are the contents I covered: 
+### Security+ :
+### 2.4 Attacks
+- [x] **Malware attacks**
+- [x] **Physical attacks**
+- [x] **Network attacks**
+- [x] **Application attacks**
+- [x] **Cryptographic attacks**
+- [x] **Password attacks**
+- [x] **Indicators**
+
+### CISCO Networking Basics:
+- Knowledge Check Quiz
+
+### 📝 Thoughts & Insights:
+Learning about attacks was very fun! This was not only important for the course but also important in real life, because one can face any of these attacks any day, in this tech-dependent world. I had prior knowledge of the type of attacks and so the indicators subtopic was the most interesting, as it taught me how to look out for all these attacks, and because as a cybersecuirty enthusiast, one never knows if a friend needs help with looking out for any of these attacks (this actually happened to me recently where someone threatnted a friend of mine to attack his devices and he had to ask for my help to look out for any indications of an attack.)
+
+Finally, cryptography is next! It's the longest module in this course (will take around 3 and a half hours to complete). I hope I don't take too long to finish it, as I plan to finish this course and give my exam within the next 35 days!
+
+I got 56/100 in the CISCO Networking Basics Knowledge Check Quiz. Yeahhh ... not great. It was awfully humbling (and depressing) that I have forgotten most of the terms and concepts. But that's fine! If I've done it once, I'll do it again. Networking is one of those subjects that is not tedious to me; in fact, I quite like it. 
+
+ ### 📈 Next Steps:
+- **Security+:** Cover Objective 1.4 (Cryptography)
+- **CISCO Networking Basics:** Cover Module 1 (Communications in a Connected World) 
