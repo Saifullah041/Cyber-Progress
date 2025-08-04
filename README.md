@@ -11,15 +11,7 @@ Therefore, I must try my best and blame only myself for falling short of my expe
 Today, I covered the first few sec+ exam objectives, which included:
 
 ### 1.2 Security Fundamentals
-- [x] **CIA Triade**
-- [x] **Control Types**
-- [x] **Authentication, Authorization, and
-Accounting (AAA)**
-- [x] **Gap analysis**
-- [x] **Zero Trust**
-- [x] **Physical security**
-- [x] **Deception and disruption
-technology**
+<img width="691" height="304" alt="image" src="https://github.com/user-attachments/assets/923aacca-d27d-4b04-a6a1-2ad3e58aa984" />
 
 (Yes, it says "1.2" because the Udemy course I am using to prepare for this exam is ordered to cover the 1.2 subtopics before 1.1.) 
 
@@ -39,11 +31,8 @@ One thing that I noticed while studying these concepts is how closely some of th
 Made notes on the following exam objectives to solidify the information in my mind:
 
 ### 1.3 Change Management Processes
-- [x] **Business processes impacting
-security operation**
-- [x] **Technical implications**
-- [x] **Documentation**
-- [x] **Version control**
+<img width="735" height="246" alt="image" src="https://github.com/user-attachments/assets/04e02ce7-8e07-4dc3-983c-4f47a95f0ad1" />
+
 
 ### 📝 Thoughts & Insights:
 I wanted to take notes for objective 1.1 as well, but it's 3:40 am, and I need to sleep so bad 😭. However, I think the content I covered was enough for today, as there were a lot of terms and procedures, and it was a lot to take in. I was confusing one with the other, but eventually I became aware of the differences, especially after doing the short quiz included in the Udemy course. 
@@ -60,13 +49,12 @@ Before deciding to document my progress, I had already covered up to exam object
 Two presentations, a quiz, and an assignment; these past few days have been quite hectic! The summer semester at my uni started off slow, but then it hit me with full force, taking up most of my time. Fortunately, I was able to cover up these topics:
 
 ### 1.1 Security Controls
-- [x] **Categories**
-- [x] **Control types**
+<img width="657" height="175" alt="image" src="https://github.com/user-attachments/assets/6adeb156-9b7b-48c4-b45c-ad9cef46aa31" />
+
 
 ### 2.1 Threats
-- [x] **Threat actors**
-- [x] **Attributes of actors**
-- [x] **Motivations**
+<img width="694" height="243" alt="image" src="https://github.com/user-attachments/assets/54b600f9-1d13-4c03-b240-7f47bc6db85a" />
+
 
 ### 📝 Thoughts & Insights:
 According to my understanding, the topic of threats is perhaps the most important one yet. It gives the basis of how to think like the threat actors, trying to understand their behaviour through knowing their motivations and attributes. This type of thinking is especially crucial for a blue team role, which is exactly what I am aiming for. And I am quite sure that learning about threats, threat actors, and their motivations would be integral to helping me during my home practice labs (I cannot wait to start, but I must cover at least half the content before jumping into that!).
@@ -92,29 +80,16 @@ I am trying my best to stay consistent. Although I am not happy with the slowing
 I was so tired today that I just wanted to sleep as soon as I got home from a day out with the boys. But I drank a cup of coffee and spent almost two hours studying. These are the topics I covered in the last two days:
 
 ### 2.2 Social Engineering
-- [x] **Human vectors/social engineering**
-- [x] **Threat vectors and attack surfaces**
+<img width="742" height="255" alt="image" src="https://github.com/user-attachments/assets/b57a8d9c-d6d0-4b81-a22c-6c617284faa5" />
+
 
 ### 2.3 Vulnerabilities
-- [x] **Application**
-- [x] **Operating system (OS)-based**
-- [x] **Web-based**
-- [x] **Hardware**
-- [x] **Virtualization**
-- [x] **Cloud-specific**
-- [x] **Supply chain**
-- [x] **Cryptographic**
-- [x] **Misconfiguration**
-- [x] **Mobile device**
-- [x] **Zero-day**
+<img width="638" height="261" alt="image" src="https://github.com/user-attachments/assets/03056d4f-d7ba-47a6-8e71-ce94ed8aff3f" />
+
 
 ### 5.6 Security Awareness Practices
-- [x] **Phishing**
-- [x] **Anomalous behavior recognition**
-- [x] **User guidance and training**
-- [x] **Reporting and monitoring**
-- [x] **Development**
-- [x] **Execution**
+<img width="660" height="263" alt="image" src="https://github.com/user-attachments/assets/28c996e9-db7e-4e1b-96eb-2a87a5cab12a" />
+
 
 
 ### 📝 Thoughts & Insights:
@@ -153,16 +128,12 @@ Ah, and while watching YouTube videos on cybersecurity guidance, I found out tha
 These are the contents I covered: 
 ### Security+ :
 ### 2.4 Attacks
-- [x] **Malware attacks**
-- [x] **Physical attacks**
-- [x] **Network attacks**
-- [x] **Application attacks**
-- [x] **Cryptographic attacks**
-- [x] **Password attacks**
-- [x] **Indicators**
+<img width="699" height="350" alt="image" src="https://github.com/user-attachments/assets/de0c8c5a-a2c9-425a-aede-554331464393" />
+
 
 ### CISCO Networking Basics:
 - Knowledge Check Quiz
+<img width="447" height="521" alt="image" src="https://github.com/user-attachments/assets/f3cae105-91da-4bc8-9749-bf2ff654b464" />
 
 ### 📝 Thoughts & Insights:
 Learning about attacks was very fun! This was not only important for the course but also important in real life, because one can face any of these attacks any day, in this tech-dependent world. I had prior knowledge of the type of attacks and so the indicators subtopic was the most interesting, as it taught me how to look out for all these attacks, and because as a cybersecuirty enthusiast, one never knows if a friend needs help with looking out for any of these attacks (this actually happened to me recently where someone threatnted a friend of mine to attack his devices and he had to ask for my help to look out for any indications of an attack.)
