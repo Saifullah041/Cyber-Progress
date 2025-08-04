@@ -140,8 +140,21 @@ Learning about attacks was very fun! This was not only important for the course 
 
 Finally, cryptography is next! It's the longest module in this course (will take around 3 and a half hours to complete). I hope I don't take too long to finish it, as I plan to finish this course and give my exam within the next 35 days!
 
-I got 56/100 in the CISCO Networking Basics Knowledge Check Quiz. Yeahhh ... not great. It was awfully humbling (and depressing) that I have forgotten most of the terms and concepts. But that's fine! If I've done it once, I'll do it again. Networking is one of those subjects that is not tedious to me; in fact, I quite like it. 
+I got 56/100 in the CISCO Networking Basics Knowledge Check Quiz. Yeahhh ... not great. It was awfully humbling (and depressing) that I had forgotten most of the terms and concepts. But that's fine! If I've done it once, I'll do it again. Networking is one of those subjects that is not tedious to me; in fact, I quite like it. 
 
  ### 📈 Next Steps:
 - **Security+:** Cover Objective 1.4 (Cryptography)
 - **CISCO Networking Basics:** Cover Module 1 (Communications in a Connected World) 
+
+## 📅 4th August 2025:
+I decided to focus a bit more on my networking knowledge and ended up completing the first checkpoint of the CISCO course:
+<img width="616" height="573" alt="image" src="https://github.com/user-attachments/assets/1780a1d2-294a-4809-a9e8-6d9b056c4603" />
+
+### 📝 Thoughts & Insights:
+It had some pretty basic stuff, a lot of which I was very familiar with. I've always had trouble differentiating between the use of a router and a modem. But these few modules helped clear my confusion. **A modem connects to the ISP to provide internet, and a router connects to the modem to provide internet to devices. A modem and a router can be two separate devices or a single device (gateway).** 
+
+I also started working on something exciting, but I'll save that for my next entry 🤭
+
+ ### 📈 Next Steps:
+- **Security+:** Cover Objective 1.4 (Cryptography)
+- **CISCO Networking Basics:** Reach the next checkpoint 
