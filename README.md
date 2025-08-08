@@ -157,4 +157,21 @@ I also started working on something exciting, but I'll save that for my next ent
 
  ### 📈 Next Steps:
 - **Security+:** Cover Objective 1.4 (Cryptography)
-- **CISCO Networking Basics:** Reach the next checkpoint 
+- **CISCO Networking Basics:** Reach the next checkpoint
+- 
+## 📅 8th August 2025:
+**I started learning Kali Linux!!!**
+
+<img width="1378" height="949" alt="Screenshot 2025-08-08 174905" src="https://github.com/user-attachments/assets/b5137e17-faa2-4b25-abba-516a7b71df38" />
+
+Yes, I know it may seem like I've started to learn a lot at once. But this is nothing new for me. There was a time in uni when I was learning Python, OpenCV in C++, and Wireshark all in the same semester. And this is just one example from my life, so I am pretty used to learning new things all at once. The key, though, is to manage time efficiently and give each the proper attention that is required to learn effectively. 
+
+Anyhow, the reason why I started this now is cuz the teacher I took guidance from told me that if I keep on learning theory, I would get bored and demotivated very quickly. He said that I should do some practical learning too, which would keep me motivated. And I can't deny, he was right! Linux is pretty fun so far. It's so cool to run a virtual machine! I want to master Linux basics and then move on to tools like Nmap, Searchsploit, Nessus, and OpenVAS. I've also set up Metasploitable 2 to practice later on. This is all for the preparation for my Cybersecurity course I am going to take at my uni in the next semester, starting from 1st September. I wanna be ahead of the game ya know!
+
+### 📝 Notes:
+
+
+ ### 📈 Next Steps:
+- 
+
+
