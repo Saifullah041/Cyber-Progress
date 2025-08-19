@@ -158,7 +158,7 @@ I also started working on something exciting, but I'll save that for my next ent
  ### 📈 Next Steps:
 - **Security+:** Cover Objective 1.4 (Cryptography)
 - **CISCO Networking Basics:** Reach the next checkpoint
-- 
+
 ## 📅 8th August 2025:
 **I started learning Kali Linux!!!**
 
@@ -169,9 +169,24 @@ Yes, I know it may seem like I've started to learn a lot at once. But this is no
 Anyhow, the reason why I started this now is cuz the teacher I took guidance from told me that if I keep on learning theory, I would get bored and demotivated very quickly. He said that I should do some practical learning too, which would keep me motivated. And I can't deny, he was right! Linux is pretty fun so far. It's so cool to run a virtual machine! I want to master Linux basics and then move on to tools like Nmap, Searchsploit, Nessus, and OpenVAS. I've also set up Metasploitable 2 to practice later on. This is all for the preparation for my Cybersecurity course I am going to take at my uni in the next semester, starting from 1st September. I wanna be ahead of the game ya know!
 
 ### 📝 Notes:
+- Everything is a file in Linux, even hardware and commands!
+- Therefore, we can copy the command files to a new folder of our own choice to use that name for that command.
+- Linux terminal is a terminal emulator, which we use to interact with the shell.
+- The shell is the UI that we use to interact with the OS
 
+These are all the commands I have been introduced to so far:
+
+<img width="765" height="374" alt="3" src="https://github.com/user-attachments/assets/84a42892-b693-41ec-89e8-56cca3b18da7" />
+<img width="765" height="46" alt="2" src="https://github.com/user-attachments/assets/c49dfd2f-9af4-4fad-95c8-f89dea4a5620" />
+<img width="765" height="591" alt="1" src="https://github.com/user-attachments/assets/94b7e72b-9ba7-4946-8048-5c8ba0c6fee1" />
+<img width="765" height="316" alt="4" src="https://github.com/user-attachments/assets/66300bbc-fbc1-4a7a-9497-6e603d4cda52" />
+
+And these are some important directories to remember:
+
+<img width="903" height="761" alt="5" src="https://github.com/user-attachments/assets/4d9bd9ef-6918-42ec-b7c9-d1d959f53177" />
 
  ### 📈 Next Steps:
-- 
+- **Security+:** Cover Objective 1.4 (Cryptography)
+- **CISCO Networking Basics:** Reach the next checkpoint
 
 
