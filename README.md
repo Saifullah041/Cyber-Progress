@@ -189,4 +189,23 @@ And these are some important directories to remember:
 - **Security+:** Cover Objective 1.4 (Cryptography)
 - **CISCO Networking Basics:** Reach the next checkpoint
 
+## 📅 20th August 2025:
+**I registered for my Security+ exam!**
 
+<img width="745" height="177" alt="image" src="https://github.com/user-attachments/assets/0822719a-2898-4da8-8de7-0e85e814e453" />
+
+I've completed about 60% of the content so far, and I am confident that I will be well prepared by the 7th of September. These are the topics I covered in the last few days:
+
+<img width="745" height="385" alt="7" src="https://github.com/user-attachments/assets/ed147e38-f58f-4b0e-9c8d-74ab2ab94d88" />
+<img width="745" height="199" alt="8" src="https://github.com/user-attachments/assets/ace7666f-06a3-4c90-8907-72c5ac5748d8" />
+<img width="745" height="329" alt="9" src="https://github.com/user-attachments/assets/ade1cd62-e259-4817-aff9-b6028c3a5f37" />
+
+### 📝 Thoughts & Insights:
+Yes, I took a little break in the past few days. I got done with my summer semester and decided to take a breather. But then I also covered all those topics mentioned above, though I didn't progress in the networking course. It is mainly cuz I just wanted to focus more on sec+ for a while, now that I have scheduled the exam. 
+
+For now, I still want to focus more on sec+, but also progress in everything else, little by little. My uni starts in about 10 days, and I plan to grind this all out and study as much as I can before I am distracted by my uni work. 
+
+ ### 📈 Next Steps:
+- **Security+:** Cover 3 more sections from the Udemy course
+- **CISCO Networking Basics:** Reach the next checkpoint
+- **Linux:** Read up on the OS and how it works.
