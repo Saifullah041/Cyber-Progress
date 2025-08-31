@@ -17,7 +17,7 @@ Today, I covered the first few sec+ exam objectives, which included:
 
 ### 📝 Thoughts & Insights:
 I made handwritten notes in a register to remember all the information. Thankfully, it was not a lot to take in, as I come from an IT background, it is easier for me to grasp these fundamental concepts. 
-I also covered objective 1.3, "Change Management", however, it has not solidified in my mind yet, for I have not jotted down my notes. I plan to do that tomorrow.
+I also covered objective 1.3, "Change Management"; however, it has not solidified in my mind yet, for I have not jotted down my notes. I plan to do that tomorrow.
 
 One thing that I noticed while studying these concepts is how closely some of them are related to business. As I have studied business studies in both my O and A levels, I was reminded of business concepts a lot. I am glad that these terms and concepts are not entirely new to me, and its making for speedy progress! That is only till I reach the more technical stuff and practical stuff😅.
 
@@ -118,9 +118,9 @@ There was an instructor at my uni whose LinkedIn profile I came across. I found 
 
 That session was very valuable to me. "You cannot become a good defender if you're not a good attacker", said my respected teacher. Previously, I had planned not to take the cybersecurity course at my uni because it was too offense-heavy. But now I think it would be a great resource and chance for me to gain vital red teaming skills to further enhance my blue teaming expertise. Another very important thing that he told me was to focus on one thing properly at a time, and that I cannot do a job while my degree is not finished, so the best thing is to gain skills for now and do internships and projects to build up my portfolio. This way, I would be industry-ready when I finish my degree. Also, he insisted that I post about my progress on LinkedIn. It is a bit out of my comfort zone, but I will surely do it, in my own way, very soon. 
 
-But perhaps the most important point he told me was to jump to practical learning as soon as I can, as Security+ is theory-heavy. And for that, he suggested me to start with TryHackMe. 
+But perhaps the most important point he told me was to jump to practical learning as soon as I can, as Security+ is theory-heavy. And for that, he suggested I start with TryHackMe. 
 
-Ah, and while watching YouTube videos on cybersecurity guidance, I found out that networking knowledge is very important. Even though I did study a Computer Networks course a year ago at my uni in my second semester (in which I got a B 😔), I want to brush up my network knowledge. And so I have decided to study the Cisco Networking Basics course along with Security+ +. Anyhow, my updated roadmap looks like this now:
+Ah, and while watching YouTube videos on cybersecurity guidance, I found out that networking knowledge is very important. Even though I did study a Computer Networks course a year ago at my uni in my second semester (in which I got a B 😔), I want to brush up on my network knowledge. And so I have decided to study the Cisco Networking Basics course along with Security+ +. Anyhow, my updated roadmap looks like this now:
 
 **Get Security+ cert    →    Complete Cisco Networking Basics course    →    Study Cybersecurity course at my uni for red teaming skills    →    Start and progress in the TryHackMe SOC Level 1 learning path (and document it on LinkedIn)    →    Apply for and do internships in summer and winter holidays    →    Do projects and build my portfolio    →    Apply for jobs after I finish my degree**
 
@@ -207,5 +207,28 @@ For now, I still want to focus more on sec+, but also progress in everything els
 
  ### 📈 Next Steps:
 - **Security+:** Cover 3 more sections from the Udemy course
+- **CISCO Networking Basics:** Reach the next checkpoint
+- **Linux:** Read up on the OS and how it works.
+
+## 📅 31th August 2025:
+See, I haven't been updating my entries that regularly now. But that doesn't mean I am not studying! In fact, I covered four more sections of sec+ and went beyond the next checkpoint in the Cisco Networking one! And even though I did not read up on the Linux OS as I was supposed to, I did try different tools on it and got a bit more familiar with the command line. 
+
+Here are the topics I covered:
+### Security+ :
+<img width="736" height="200" alt="image" src="https://github.com/user-attachments/assets/46a4ddb9-7ea1-4879-a030-3c71acbad33f" />
+<img width="736" height="321" alt="image" src="https://github.com/user-attachments/assets/b3803851-3b3e-4d61-96cc-b98a19c4c5fc" />
+<img width="736" height="372" alt="image" src="https://github.com/user-attachments/assets/ad51c3f5-bb9c-49e1-8d93-e0bdf55872b8" />
+<img width="736" height="245" alt="image" src="https://github.com/user-attachments/assets/a065afe1-4c69-48d6-a2b2-ba34674688e4" />
+
+### CISCO Networking Basics:
+<img width="736" height="376" alt="image" src="https://github.com/user-attachments/assets/473139dc-b08a-4fb8-84eb-4e6e85792142" />
+
+### 📝 Thoughts & Insights:
+Honestly, I was so confused about the uses of different layers of the OSI model. The Cisco course had very vague and ambiguous information, and it made me jumble up the uses of each layer. Thankfully, I found a YouTube video that explained them so well, while also mentioning the protocols used at each layer. Later on, I will update this section to include my notes on the OSI layer to have a record somewhere, but right now I have no time for doing that cuz **my 5th semester starts tomorrow!** 
+
+Oh, and another thing, I rescheduled my sec+ exam to the 14th of September, and will probably have to put it off a bit more. The reason is that I found out I needed to practice a lot of practice questions after I am done covering the content, and with my uni starting, I would need more time to be at my best for the exam.  
+
+ ### 📈 Next Steps:
+- **Security+:** Cover 4 more sections from the Udemy course
 - **CISCO Networking Basics:** Reach the next checkpoint
 - **Linux:** Read up on the OS and how it works.
